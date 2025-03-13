@@ -19,7 +19,7 @@ int main(){
             std::cout<<"Strong Password."<<std::endl;
         }
         else{
-            std::cout<<"Weak Password"<<std::endl;
+            std::cout<<"Password must contain uppercase letter, lowercase letter, digit and a specialcharacter."<<std::endl;
         }
     }
     else{
